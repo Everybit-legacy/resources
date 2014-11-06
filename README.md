@@ -1,4 +1,4 @@
 resources
 =========
 
-Static resources using in EveryBit projects
+Static resources used in EveryBit projects
